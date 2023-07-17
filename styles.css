@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'karla';
+    src: url(fonts/karla.ttf) format('truetype');
+}
+
+body, html {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.container {
+    width: 100%;
+    height: 50%;
+    background-color: #1F2937;
+    font-family: 'karla';
+    padding: 20px;
+}
+
+.title {
+    font-size: 50px;
+    border: none;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.text {
+  color: #D5D4D8;
+}
+
+button {
+    background-color: #10B981;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: rgb(243, 159, 48);
+}
+
+#shelfs {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.shelf {
+    text-align: center;
+    background: #273549;
+    border-radius: 6px;
+    height: 30px;
+    width: 150px;
+    margin: 10px 0;
+    color: #55F991;
+    padding: 5px 10px;
+}
