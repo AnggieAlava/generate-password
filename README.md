@@ -10,7 +10,7 @@ This app can be used to generate a random password securely. I built with [Scrim
 
 ## Demo
 
-Check out the live demo [HERE...](https://comforting-babka-219276.netlify.app/).
+Check out the live demo [HERE...](https://generate-password-a.netlify.app/).
 
 ## Preview
 
