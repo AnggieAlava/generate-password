@@ -12,6 +12,12 @@ This app can be used to generate a random password securely. I built with [Scrim
 
 Check out the live demo [HERE...](https://generate-password-a.netlify.app/).
 
+## Authors
+
+[Anggie Alava](https://www.linkedin.com/in/anggiealava/)
+
+![Logo](./logo192x192.png)
+
 ## Preview
 
 ![Project Preview](/assets/generate-password.gif)
